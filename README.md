@@ -1,2 +1,2 @@
 # Parking-Desktop-Application
-The Parking Desktop Application is a JavaFX-based project that provides a user-friendly interface for managing parking operations.
+The Parking Desktop Application is a JavaFX-based project that provides a user-friendly interface for managing parking operations. Built using JavaFX and utilizing the SQLite database, this application allows users to efficiently handle tasks such as vehicle registration, parking space allocation. this application simplifies parking management processes, enhances efficiency, and improves overall user experience.
